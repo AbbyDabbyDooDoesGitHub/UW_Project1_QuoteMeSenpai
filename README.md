@@ -36,7 +36,7 @@ Abby Douglas
 
 ![Screenshot of Website](./assets/images/screenshot.png)
 
-## Link to Web App:  https://holgateb.github.io/quote-me-senpai/
+## Link to Web App:  https://abbydabbydoodoesgithub.github.io/quote-me-senpai/
 
 ## API - get quotes by anime title
 fetch('https://animechan.vercel.app/api/quotes/anime?title=naruto')
