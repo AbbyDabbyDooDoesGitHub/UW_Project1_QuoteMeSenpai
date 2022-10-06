@@ -5,26 +5,26 @@ Quotes and Photos from your favorite anime shows
 Create a Quiz to test Anime Knowledge... Do you know who said what?
 Ensure Webpage is Functioning as Intended (ie: all links work, etc)
 Create an End Product that works on Desktop and Mobile
-Use Framework other than Bootstrap (we chose to utilize Materialize https://materializecss.com/ )
+Use Framework other than Bootstrap (we chose to utilize [Materialize](https://materializecss.com/))
 Have Features that Utilize Local Storage
 
-## Technologies Used
--HTML
--CSS
--Javascript
--Materialize CSS Framework
--Nekos Best API
--AnimeChan API
--Google Fonts
--JSON
+## Contributers
+- [Abigail Douglas](https://github.com/AbbyDabbyDooDoesGitHub)
+- [Ben Holgate](https://github.com/holgateb)
+- [Robert Bishop](https://github.com/rbishop85)
+- [Mary Villoso](https://github.com/marycv)
+- [Alka Sah](https://github.com/alka485)
+- [Priyanka Ghale](https://github.com/prigh-a)
 
-## Team Members
-Ben Holgate
-Robert Bishop
-Mary Villoso
-Alka Sah
-Priyanka Ghale
-Abby Douglas
+## Technologies Used
+- HTML
+- CSS
+- Javascript
+- Materialize CSS Framework
+- Nekos Best API
+- AnimeChan API
+- Google Fonts
+- JSON
 
 ## Installation
 
